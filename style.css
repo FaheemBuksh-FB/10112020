@@ -1,0 +1,11 @@
+table{
+    display: inline;
+    /* width: 100%; */
+    background-color: aqua;
+    border: 2px solid gray;
+}
+
+/* #c1, #c2, #c3{
+    width: 33%;
+    border: 2px solid gray;
+}  */
